@@ -123,3 +123,5 @@ This template is based on the work of:
 ## License
 
 This project is licensed under the [GNU General Public License v3.0](LICENSE).
+
+<!-- trigger build -->
